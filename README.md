@@ -10,6 +10,12 @@ Este é um aplicativo simples de **Lista de Compras**, feito com **Python** e **
 - Visualizar itens adicionados
 - Excluir itens selecionados
 - Interface visual simples e intuitiva
+
+## 🛠️ Tecnologias
+- Python 3
+- Tkinter
+  
 ## 📸 Captura de tela
 ![app-lista-compras](https://github.com/user-attachments/assets/bc4a5e9a-ba79-41b1-b7b2-c5ea9389f785)
 
+Feito por **Pinheiro Programdor Python** – [GitHub](https://github.com/PinheiroProgramadorPython)
